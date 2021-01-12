@@ -1,5 +1,5 @@
 # Multi Release Jar
-Small project to exemplify how to use the Multi Release Jar feature from Java9+.
+Small project to exemplify how to use the [Multi Release Jar - JEP 238](https://openjdk.java.net/jeps/238) feature from Java9+.
 
 Example config for JDK 8 and JDK 11:
 
